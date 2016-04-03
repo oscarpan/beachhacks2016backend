@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Are You Furreal?</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -38,7 +38,10 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Are You Furreal?</div>
+                <a href="https://he-s3.s3.amazonaws.com/media/sprint/beachhacks1/team/58823/37e6ceeFURREAL-2PM.apk">
+                    <img src="http://piiapp.com/images/android.png" alt="" style="max-width:100%">
+                </a>
             </div>
         </div>
     </body>
